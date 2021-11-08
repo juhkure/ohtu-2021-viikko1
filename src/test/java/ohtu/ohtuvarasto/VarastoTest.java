@@ -141,7 +141,7 @@ public class VarastoTest {
     
     @Test
     public void yliMaaritettySaldo() {
-        Varasto varastoA = new Varasto(10, 9);
+        Varasto varastoA = new Varasto(10, 11);
         
         assertEquals(10, varastoA.getSaldo(), vertailuTarkkuus);
     }
