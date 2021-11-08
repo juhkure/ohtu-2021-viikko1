@@ -1,5 +1,0 @@
-Tämä on testiteksti numero 2
-
-muokkaus
-
-muokkaus git add -p varten
